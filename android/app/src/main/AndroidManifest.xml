@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-  package="com.redux2ways">
+  package="com.reduxsaga">
 
     <uses-permission android:name="android.permission.INTERNET" />
 

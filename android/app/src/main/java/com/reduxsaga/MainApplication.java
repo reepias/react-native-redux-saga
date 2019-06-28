@@ -1,4 +1,4 @@
-package com.redux2ways;
+package com.reduxsaga;
 
 import android.app.Application;
 
