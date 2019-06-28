@@ -29,9 +29,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-               BuildableName = "redux2ways-tvOS.app"
-               BlueprintName = "redux2ways-tvOS"
-               ReferencedContainer = "container:redux2ways.xcodeproj">
+               BuildableName = "reduxsaga-tvOS.app"
+               BlueprintName = "reduxsaga-tvOS"
+               ReferencedContainer = "container:reduxsaga.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E48F1E0B4A5D006451C7"
-               BuildableName = "redux2ways-tvOSTests.xctest"
-               BlueprintName = "redux2ways-tvOSTests"
-               ReferencedContainer = "container:redux2ways.xcodeproj">
+               BuildableName = "reduxsaga-tvOSTests.xctest"
+               BlueprintName = "reduxsaga-tvOSTests"
+               ReferencedContainer = "container:reduxsaga.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -61,9 +61,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E48F1E0B4A5D006451C7"
-               BuildableName = "redux2ways-tvOSTests.xctest"
-               BlueprintName = "redux2ways-tvOSTests"
-               ReferencedContainer = "container:redux2ways.xcodeproj">
+               BuildableName = "reduxsaga-tvOSTests.xctest"
+               BlueprintName = "reduxsaga-tvOSTests"
+               ReferencedContainer = "container:reduxsaga.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -71,9 +71,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "redux2ways-tvOS.app"
-            BlueprintName = "redux2ways-tvOS"
-            ReferencedContainer = "container:redux2ways.xcodeproj">
+            BuildableName = "reduxsaga-tvOS.app"
+            BlueprintName = "reduxsaga-tvOS"
+            ReferencedContainer = "container:reduxsaga.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -94,9 +94,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "redux2ways-tvOS.app"
-            BlueprintName = "redux2ways-tvOS"
-            ReferencedContainer = "container:redux2ways.xcodeproj">
+            BuildableName = "reduxsaga-tvOS.app"
+            BlueprintName = "reduxsaga-tvOS"
+            ReferencedContainer = "container:reduxsaga.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -113,9 +113,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "redux2ways-tvOS.app"
-            BlueprintName = "redux2ways-tvOS"
-            ReferencedContainer = "container:redux2ways.xcodeproj">
+            BuildableName = "reduxsaga-tvOS.app"
+            BlueprintName = "reduxsaga-tvOS"
+            ReferencedContainer = "container:reduxsaga.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
