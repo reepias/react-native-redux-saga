@@ -7,7 +7,7 @@ import {
   View,
 } from 'react-native'
 import { connect } from 'react-redux'
-import { getAnimals } from './redux/actions'
+import { getAnimals, getMacAddress } from './redux/actions'
 
 let styles
 
@@ -18,6 +18,7 @@ class App extends PureComponent {
   loadData = () => {
     console.log('loadData')
     this.props.getAnimals()
+    this.props.getMacAddress()
   }
   render() {
     const { container, text, button, buttonText, mainContent } = styles
@@ -80,5 +81,6 @@ export default connect(
   mapStateToProps,
   {
     getAnimals,
+    getMacAddress,
   }
 )(App)
